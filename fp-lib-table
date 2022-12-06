@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pad-button")(type "KiCad")(uri "${KIPRJMOD}/pad-button.pretty")(options "")(descr ""))
+)
