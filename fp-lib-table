@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "pad-button")(type "KiCad")(uri "${KIPRJMOD}/pad-button.pretty")(options "")(descr ""))
+  (lib (name "neogeo_mini_pad")(type "KiCad")(uri "/home/ludovic/workspace/neogeo_mini_pad.pretty")(options "")(descr ""))
 )
