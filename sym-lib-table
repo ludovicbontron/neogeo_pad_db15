@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "LM339")(type "Legacy")(uri "${KIPRJMOD}/lib/LM339DR.lib")(options "")(descr ""))
+  (lib (name "LPV324")(type "Legacy")(uri "${KIPRJMOD}/lib/LPV324MX_NOPB.lib")(options "")(descr ""))
+  (lib (name "RKJXV12240")(type "Legacy")(uri "${KIPRJMOD}/lib/RKJXV122400R.lib")(options "")(descr ""))
+  (lib (name "ULN2002")(type "Legacy")(uri "${KIPRJMOD}/lib/ULN2002D1013TR.lib")(options "")(descr ""))
+)

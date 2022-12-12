@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM339DR
+D Quad Differential Comparator
+K
+F http://www.ti.com/lit/gpn/lm339
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPV324MX_NOPB
+D Quad channel general purpose, low voltage, low power, rail-to-rail output operational amplifiers<
+K
+F http://www.ti.com/lit/gpn/lpv324-n
+$ENDCMP
+#
+#End Doc Library

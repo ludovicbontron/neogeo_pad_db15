@@ -48,8 +48,29 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|120612911|88329744|9b9d8599-e606-49cc-8cef-d0ef90fe1271|2b145ef6-45ba-46ec-8890-55fdf078da52",
+        "clearance|122222911|105639744|0c8c0385-2b77-4b9d-baf7-15515be9e373|8c03c61d-c232-4bc0-ad56-19f52dad2c76",
+        "clearance|130747608|80300392|25b07ad0-f2c3-413a-9619-2debeab1351c|77282b06-05ed-4d91-863e-1230089a63ea",
+        "clearance|131100022|79524757|78bc483f-80a8-4fac-befe-f850ecde2a87|77282b06-05ed-4d91-863e-1230089a63ea",
+        "clearance|132357608|97610392|42de73c0-5e2b-44aa-be56-0a3e0dd403a3|1e84570b-079b-491c-9943-f65d46c92418",
+        "clearance|132710022|96834757|e92b0849-6cc5-46f5-a1ba-cf735d5a5f11|1e84570b-079b-491c-9943-f65d46c92418",
+        "clearance|146123322|74749565|2c0a570e-beb6-4fa8-8d67-b17b99020dc8|646f4fed-2210-4861-8e18-25c66450a1e4",
+        "clearance|151151015|74564036|964d9ca7-5283-42ba-97a0-6cc083f11f27|0dc2bd52-6d8b-4e6b-a153-7514b7b1e81d",
+        "clearance|157273322|90279565|f26179ea-bfe1-483b-a3ea-419ca92a2011|6e2b7a26-14ce-4e7d-a902-e098ea32c8aa",
+        "clearance|162301015|90094036|7d547d8d-342d-46fd-a35f-a2a32027f3c3|9ef916f2-a5f4-4f51-ac2e-ae1908568bab",
+        "clearance|162413322|63079565|56466dae-bec2-4d2b-b040-5d0ca65ba2f4|63c84230-770d-4b4d-aa09-5e0ae128e403",
+        "clearance|167441015|62894036|0f8982e5-6348-41f8-85a5-0e42ca3a0a4e|c296b3d4-d279-458d-874b-f87796ff4ab6",
+        "clearance|173573322|78819565|e6235741-dfb7-4e8b-8ce2-061e51e1b90b|1bbb3eeb-e235-41ff-8f18-ca62944bed62",
+        "clearance|178601015|78634036|01512822-041b-4ce8-8e1b-59fa08e28958|c03fe53c-d09d-4df6-862c-554b07ce471e"
+      ],
       "meta": {
         "version": 2
       },
@@ -112,8 +133,17 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.4,
+        0.7
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
